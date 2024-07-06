@@ -1,1 +1,10 @@
 https://drive.google.com/drive/folders/1EI4eOfo4er68gN6Yil-iU_NmGVudGcnO?usp=drive_link
+![NLP_Report_page-0001](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/5bf67ee4-7be0-4789-8e3c-98935384798c)
+![NLP_Report_page-0002](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/3df7e03f-a8ce-411a-a7e3-10b7185c0476)
+![NLP_Report_page-0003](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/b094df97-b7c6-4c0e-96dd-e6a3d152f76b)
+![NLP_Report_page-0004](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/21da281e-598b-4ccf-bb25-9cb97c465dd4)
+![NLP_Report_page-0005](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/2126ac2d-1602-4cf1-b595-4f8250a08b34)
+![NLP_Report_page-0006](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/03af36fa-eb0e-429b-a42f-d232b3a0649c)
+![NLP_Report_page-0007](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/c9384ba4-a8b8-4ca2-aea2-dd17e2c3fe68)
+![NLP_Report_page-0008](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/a445e03a-3ec1-4ab6-b20b-f4a8b834d4f1)
+![NLP_Report_page-0009](https://github.com/AlgorithmicDeer/Hindi-Text-Summarizer/assets/137785530/4f742f86-79cf-4345-90de-9977d6c4f02a)
